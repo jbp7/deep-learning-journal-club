@@ -16,7 +16,7 @@ Tuesdays 3-4 PM (Room 11010 Hock Plaza)
 | 03-04-2018 | n/a       | No meeting                                                                                                                                                                                                                                                              |
 | 10-04-2018 | Scott     | [Introduction to Capsule Neural Networks: Or, What is Wrong with CNN?](https://arxiv.org/pdf/1710.09829.pdf)                                                                                                                                                            |
 | 17-04-2018 | Ben       | [Mask R-CNN](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwix6MPs56PaAhWJm1kKHS7HBEIQFgg8MAE&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1703.06870&usg=AOvVaw1Lg5lOOWROg7pP4gnzdu92)                                               |
-| 24-04-2018 | John Pura | [node2vec: Scalable Feature Learning for Networks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwi_0OmB6KPaAhXKzlkKHTc4D5sQFggsMAA&url=https%3A%2F%2Fcs.stanford.edu%2F~jure%2Fpubs%2Fnode2vec-kdd16.pdf&usg=AOvVaw25MLdpBFEhSJP69Ev-LA2x) |
+| 24-04-2018 | John Pura | [OhmNet: Predicting multicellular function through multi-layer tissue networks](https://academic.oup.com/bioinformatics/article/33/14/i190/3953967) |
 
 
 **General topics of interest**
